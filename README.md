@@ -1,11 +1,20 @@
 
+<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width= "100%" height="300px">
 
-<h1 align="center">Hi 👋, I'm Manoj</h1>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
+<!-- <h1 align="center">Hi 👋, I'm Manoj</h1> -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=blue&amp;size=20&amp;lines=Hey!+It's+Manoj+Gajare!;Java+Back-end+Developer...;" style="width: 100%;">
+
+
 
 <h3 align="center">I am Aspiring Java Backend Developer</h3>
-<h3 align="center">I'm a Java Developer with proficiency in Data Structures Algorithms Express  who enjoys making web application and learning new technology.</h3>
+<h3 align="center">A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
 
-<p align="center" ><img width="80%" height="300px" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" /></p>
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" height="250px">
 
 
 
@@ -17,24 +26,28 @@
 * ⚡  I like interacting with new people and explore the world.
 * 💬  Ask me about `Coding`, `Frontend`, `Backend`,  `DSA`,  `Web`,  `softwaredevelopment`
 <br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
  🛠️ Tech Stack and FrameWorks:
+
+
 
 <p align="left">
   
-<img alt="Javascript" src="https://cutewallpaper.org/24/javascript-png/javascript-logo-logodix.png"  height="80px" width="110px" gap="30px"/>
-<img alt="Java" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_168609.png"  height="80px"  width="110px"/>
-<img alt="MySQL" src="https://redpaladin.com/wp-content/uploads/2017/03/mysql-logo.jpg"   height="80px"/>
-<img alt="Nodejs" src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png"   height="80px"/>
+<img alt="Javascript" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"  height="80px" />
+<img alt="Java" src="https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png"  height="80px"  />
+<img alt="MySQL" src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png"   height="80px"/>
+
 <img alt="sprint" src="https://www.systembug.me/assets/img/spring.png" height="80px"/>
 
 
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="80px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  height="80px"/>
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="80px"/>
- <img alt="Github" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"  height="80px"/>
- <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"  height="80px"/>
- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white"  height="80px"/>
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify"  height="80px"/>
+<img alt="html5" src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" height="80px"/>
+<img alt="Css3" src="https://logoeps.com/wp-content/uploads/2012/04/css3-vector.png"  height="80px"/>
+<img alt="git" src="https://uysalmustafa.com/wp-content/uploads/2016/11/git-logo-1.png" height="80px"/>
+ <img alt="Github" src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png"  height="80px"/>
+ <img alt="Visual Studio Code" src="https://miro.medium.com/max/1400/1*0LS0sRb2kjHtIIWtKAt-iw.png"  height="80px"/>
+ <img alt="postman" src="https://bospar.com/wp-content/uploads/2021/08/pm-logo-vert.jpg"  height="80px"/>
+  <img alt="Netlify" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.png"  height="80px"/>
 
 
 </p>
@@ -45,13 +58,24 @@
 
 </p>
 
-### ⚙️ &nbsp;GitHub Stats
- <hr>
-<div display="inline">
-<!-- <a href="http://www.github.com/Sneha052022"> -->
- <img src="https://github-readme-stats.vercel.app/api?username=manojgajare123&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=365314&hide_border=true&show_icons=true" alt="sangle2022's GitHub stats" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
+<h2 align="center">📊 My Github Stats<h2>
+<div>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manojgajare123&theme=react" alt="Manoj Gajare" height="250px" width="47%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=manojgajare123&show_icons=true&theme=react" height="255px" width="47%"/>
+<div>
+  </br>
+  
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojgajare123&theme=react&langs_count=8" alt="Manoj Gajare" height="260px" width="25%" />
+  <img align="right"  src="https://activity-graph.herokuapp.com/graph?username=manojgajare123&bg_color=181818&color=5BCDEC&line=5BCDEC&point=FFFFFF" height="255px" width="70%"/>
+<div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manojgajare123&stroke=ffffff&background=365314&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
- </div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-<a href="http://www.github.com/Aadi0706"><img src="https://activity-graph.herokuapp.com/graph?username=manojgajare123&bg_color=365314&color=ffffff&line=ef4444&point=ffffff&area_color=365314&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
+
+<p align="center"><img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"></p>
