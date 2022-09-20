@@ -16,7 +16,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" height="250px">
 
-
+ 💬 About me ...<br>
 
 * 🌍  I'm based in Maharashtra
 * 💬  My portfolio is [https://manojgajare123.github.io/]
