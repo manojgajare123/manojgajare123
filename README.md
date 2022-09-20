@@ -1,5 +1,5 @@
-
-<img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width= "100%" height="300px">
+![MasterHead](https://media2.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif
+)
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
 <!-- <h1 align="center">Hi 👋, I'm Manoj</h1> -->
