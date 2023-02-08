@@ -50,7 +50,6 @@
  <img alt="postman" src="https://bospar.com/wp-content/uploads/2021/08/pm-logo-vert.jpg"  height="80px"/>
   <img alt="Netlify" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.png"  height="80px"/>
 
-
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
