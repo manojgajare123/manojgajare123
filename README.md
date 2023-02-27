@@ -71,7 +71,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojgajare123&theme=react&langs_count=8" alt="Manoj Gajare" height="260px" width="100%" />
 
 <div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=ff0000&amp;size=20&amp;lines=Thanks!+For+Visiting+On+My+Profile!;See+You+Next-Time+Hope+u+like+its...👨🏻‍💻;" style="width: 100%;">
