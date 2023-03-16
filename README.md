@@ -11,7 +11,6 @@
 <h3 align="center">A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Love to work in a team.</h3>
 
 
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"  width="100%">
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" height="250px">
