@@ -29,7 +29,6 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
  🛠️ Tech Stack and FrameWorks:
 
-
 <p align="left">
   
 <img alt="Javascript" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png"  height="80px" />
