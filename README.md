@@ -34,7 +34,7 @@
 
 <img alt="sprint" src="https://www.systembug.me/assets/img/spring.png" height="80px"/>
  <img alt="hibernate" src="https://www.devteam.space/wp-content/uploads/2018/05/hibernate.jpg"  height="80px"/>
-  <img alt="AWS" src="https://www.eurocloudnative.de/app/uploads/2021/01/Amazon_Web_Services_Logo-300x300.png"  height="80px"/>
+ <img alt="AWS" src="https://www.eurocloudnative.de/app/uploads/2021/01/Amazon_Web_Services_Logo-300x300.png"  height="80px"/>
 
 <img alt="html5" src="https://brandslogos.com/wp-content/uploads/images/large/html-logo.png" height="80px"/>
 <img alt="Css3" src="https://logoeps.com/wp-content/uploads/2012/04/css3-vector.png"  height="80px"/>
