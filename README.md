@@ -14,6 +14,7 @@
 
  💬 About me ...<br>
 
+* 🔭 I’m currently working at @amber technologies
 * 🌍  I'm based in Maharashtra
 * 💬  My portfolio is [https://manojgajare123.github.io/]
 * ✉️  You can contact me at [manojgajare5@gmail.com](mailto:manojgajare5@gmail.com)
